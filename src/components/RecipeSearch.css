@@ -1,0 +1,33 @@
+input{
+    font-family: "roboto";
+    height: 40px;
+    width: 50%;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 20px;
+    padding-left: 20px;
+   
+
+}
+
+button{
+   height: 38px;
+   width: 130px;
+   background-color: #a8e063;
+   font-family: "roboto";
+   font-size: 16px;
+   color: #000;
+   border-radius: 10px;
+   border: 1px solid #a8e063;
+   margin: 10px;
+
+}
+
+form{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
